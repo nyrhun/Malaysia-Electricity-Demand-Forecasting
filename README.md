@@ -52,7 +52,7 @@ The script prints the results and saves three graphs in the `outputs` folder. Cl
 
 ## Limitations
 
-The model uses past consumption only; it does not include weather, economic conditions or explicit seasonal variables. The test covers one 12-month period, so further validation is needed. The dominant eigenvalue is slightly greater than one, indicating slow growth under repeated application of the fitted model—not a guarantee of real-world growth.
+The model uses past consumption only; it does not include weather, economic conditions or explicit seasonal variables. The test covers one 12-month period, so further validation is needed. The dominant eigenvalue is slightly greater than one, indicating slow growth under repeated application of the fitted model and not a guarantee of real-world growth.
 
 ## Team
 
